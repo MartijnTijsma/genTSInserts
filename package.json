@@ -1,0 +1,16 @@
+{
+  "name": "genTSInserts",
+  "version": "0.0.0",
+  "description": "generate TS Inserts",
+  "main": "start.js",  
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MartijnTijsma/genTSInserts.git"
+  },
+  "author": "Martijn Tijsma",  
+  "homepage": "https://github.com/MartijnTijsma/genTSInserts",
+  "dependencies" : {
+    "moment": "*",
+    "optimist": "*"
+  }
+}

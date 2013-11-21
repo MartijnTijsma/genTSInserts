@@ -1,0 +1,10 @@
+INSERT INTO device_port_data SET device_port_id = 101, timestamp = "2013-11-21 00:00:00", value=439;
+INSERT INTO device_port_data SET device_port_id = 101, timestamp = "2013-11-21 00:14:00", value=993;
+INSERT INTO device_port_data SET device_port_id = 101, timestamp = "2013-11-21 00:22:48", value=450;
+INSERT INTO device_port_data SET device_port_id = 101, timestamp = "2013-11-21 00:35:37", value=189;
+INSERT INTO device_port_data SET device_port_id = 101, timestamp = "2013-11-21 00:48:59", value=568;
+INSERT INTO device_port_data SET device_port_id = 101, timestamp = "2013-11-21 00:49:50", value=143;
+INSERT INTO device_port_data SET device_port_id = 101, timestamp = "2013-11-21 00:55:21", value=871;
+INSERT INTO device_port_data SET device_port_id = 101, timestamp = "2013-11-21 01:07:51", value=541;
+INSERT INTO device_port_data SET device_port_id = 101, timestamp = "2013-11-21 01:22:48", value=112;
+INSERT INTO device_port_data SET device_port_id = 101, timestamp = "2013-11-21 01:36:04", value=854;
